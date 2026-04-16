@@ -1,4 +1,4 @@
-# Modularization with Functions
+# Modularização com Funções (Modularization with Functions)
 
 ## O que é
 

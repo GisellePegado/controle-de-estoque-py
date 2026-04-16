@@ -1,4 +1,4 @@
-# In-Memory State Management
+# Gerenciamento de estado em Memória (In-Memory State Management)
 
 ## O que é
 

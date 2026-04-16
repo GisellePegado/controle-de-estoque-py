@@ -1,4 +1,4 @@
-# CLI Menu Pattern
+# Padrão do Menu CLI (CLI Menu Pattern)
 
 ## O que é
 

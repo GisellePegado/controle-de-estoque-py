@@ -1,4 +1,4 @@
-# Retorno antecipado (Guard Clause - Early Return)
+# Cláusula de Guarda (Guard Clause - Early Return)
 
 ## O que é
 

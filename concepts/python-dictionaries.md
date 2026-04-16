@@ -1,4 +1,4 @@
-# Dicionários (Python Dictionaries)
+# Dicionários Python (Python Dictionaries)
 
 ## O que é
 

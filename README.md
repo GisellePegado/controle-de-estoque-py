@@ -1,6 +1,6 @@
 <div align="center">
 
-# controle-de-estoque-py
+# Controle de Estoque
 
 Sistema de controle de estoque via terminal, com registro de movimentações e histórico de auditoria.
 

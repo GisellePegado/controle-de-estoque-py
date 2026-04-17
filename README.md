@@ -52,8 +52,6 @@ controle-de-estoque-py/
 └── LICENSE
 ```
 
----
-
 ## ⚙️ Como executar
 
 ```bash
@@ -66,8 +64,6 @@ python estoque.py
 ```
 
 Não há dependências externas — apenas a biblioteca padrão do Python.
-
----
 
 ## 🧭 Fluxo de Desenvolvimento
 
@@ -84,8 +80,6 @@ Testes e Validação
 ```
 
 Este fluxo reflete as práticas recomendadas pela Engenharia de Software para garantir que o sistema entregue valor real ao usuário final com qualidade e rastreabilidade.
-
----
 
 ## 🖥️ Funcionalidades
 

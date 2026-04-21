@@ -1,6 +1,6 @@
 <div align="center">
 
-# Controle de Estoque
+# 📦 Controle de Estoque
 
 Sistema de controle de estoque via terminal, com registro de movimentações e histórico de auditoria.
 
